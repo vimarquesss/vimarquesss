@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Vitória Marques 👋
 
 - 🔭 Estou cursando Técnico em Desenvolvimento de Sistemas
-- 🌱 Eu estou aprendendo JavaScript
-- 💬 Contate-me no email: marques0617@gmail.com
+- 🌱 Eu estou aprendendo JavaScript, React Native e Asp.Net
+- 💬 Meu linkedin é https://www.linkedin.com/in/vit%C3%B3riamarques/
 - 😄 Pronouns: ela/dela
 
 <div align="center">
