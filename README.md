@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Técnico em Desenvolvimento de Sistemas
 - 🌱 Eu estou aprendendo JavaScript, React Native e Asp.Net
-- 💬 Meu linkedin é https://www.linkedin.com/in/vit%C3%B3riamarques/
+- 💬 Meu linkedin é www.linkedin.com/in/vitoriamarquesss
 - 😄 Pronouns: ela/dela
 
 <div align="center">
