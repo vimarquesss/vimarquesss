@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Vitória Marques 👋
 
-- 🔭 Estou cursando Técnico em Desenvolvimento de Sistemas
+- 🔭 Formada no Curso Técnico em Desenvolvimento de Sistemas
 - 🌱 Eu estou aprendendo JavaScript, React Native e Asp.Net
 - 💬 Meu linkedin é www.linkedin.com/in/vitoriamarquesss
 - 😄 Pronouns: ela/dela
